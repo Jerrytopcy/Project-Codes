@@ -9,9 +9,7 @@ This project implements a decision tree classifier to predict breast cancer (Ben
 
 📁 breast-cancer-classification/ │ ├── breast_cancer_decision_tree.ipynb ← Main Jupyter Notebook ├── plots/ │ ├── baseline_confusion_matrix.png │ ├── evolved_confusion_matrix.png │ ├── performance_metrics_comparison.png │ ├── hyperparameter_bar_plot.png │ ├── genetic_algorithm_learning_curve.png │ └── decision_tree_structure.png ├── README.md ← You are here └── requirements.txt ← List of dependencies
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -42,15 +40,11 @@ jupyterlab / notebook (if running via Jupyter)
 Option 1: Run in Jupyter Notebook
 Install Jupyter Notebook (if not already installed):
 
-bash
-Copy
-Edit
+
 pip install notebook
 Launch the notebook:
 
-bash
-Copy
-Edit
+
 jupyter notebook
 Navigate to the breast_cancer_decision_tree.ipynb file and run each cell sequentially.
 
