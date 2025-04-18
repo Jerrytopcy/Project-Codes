@@ -14,7 +14,7 @@ This project implements a decision tree classifier to predict breast cancer (Ben
 ---
 
 ## 🧰 Requirements
-
+```bash
 Before running the project, ensure the following Python packages are installed:
 
 
